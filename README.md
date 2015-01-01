@@ -24,9 +24,6 @@ See the [changelog](CHANGELOG.md) for release details.
 | :-----: | :----------: |
 | 1.0 | 2015-01-01 |
 
-## Contributing and Forking
-
-*Swan* is open source and released under the MIT License, and contributions to the code base are welcome and encouraged.
 
 ## Copyright & License
 
@@ -34,5 +31,5 @@ Copyright (c) 2015 Sean Russell - Released under The MIT License.
 
 ## Thanks
 
-Thanks to [@SethLilly](https://twitter.com/sethlilly/) for providing the inspiration for Swan with the minimal Vapor [Vapor](https://github.com/sethlilly/Vapor) theme.
+Thanks to [@SethLilly](https://twitter.com/sethlilly/) for providing the inspiration for Swan with the minimal [Vapor](https://github.com/sethlilly/Vapor) theme.
 
