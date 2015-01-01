@@ -1,6 +1,6 @@
 # Swan
 
-Minimal and responsive with a focus on simplicity and subtle animations, *Swan* is a theme that embodies the core concept of [Ghost](http://ghost.org/)&mdash;it fades into the background, bringing the focus to your content while creating a smooth experience.
+Minimal and responsive with a focus on simplicity, *Swan* is a theme that attempts to bring the focus to your content while creating a smooth experience.
 
 Supports blog and user images; cover images, while supported in the Ghost admin, are not displayed in the theme due to theme's minimal nature.
 
