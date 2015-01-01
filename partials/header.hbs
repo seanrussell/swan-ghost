@@ -1,0 +1,10 @@
+<header id="site-head">
+	<!--
+	Comment the following line and uncomment this line to replace static demo logo with your blog logo
+    	{{#if @blog.logo}}<a id="blog-logo" href="{{@blog.url}}"><div class="bloglogo" style="background: url({{@blog.logo}})"></div></a>{{/if}}
+	-->
+	<a id="blog-logo" href="{{@blog.url}}"><div class="bloglogo" style="background: url({{asset "img/swan-demo.jpeg"}})"></div></a>
+    <h1 class="blog-title"><a href="{{@blog.url}}">{{@blog.title}}</a></h1>
+    <h2 class="blog-description">{{@blog.description}}</h2>
+    {{> menu}}
+</header>
