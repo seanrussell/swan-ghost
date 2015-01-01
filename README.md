@@ -31,5 +31,5 @@ Copyright (c) 2015 Sean Russell - Released under The MIT License.
 
 ## Thanks
 
-Thanks to [@SethLilly](https://twitter.com/sethlilly/) for providing the inspiration for Swan with the minimal [Vapor](https://github.com/sethlilly/Vapor) theme.
+Thanks to [@SethLilly](https://twitter.com/sethlilly/) for providing the inspiration for Swan with his [Vapor](https://github.com/sethlilly/Vapor) theme.
 
