@@ -10,11 +10,11 @@ Facebook, Twitter, and Google+ icons are trademarks of their respective owners a
 
 Other icons provided by [Ionic](https://github.com/driftyco/ionicons) and released under MIT license.
 
-See *Swan* in action at [Swan Demo](http://swan-demo.herokuapp.com/). Note that because heroku periodically removes images, the only image displayed in the demo is a demo logo that is within the assets folder. Ordinarily, this would be the blog logo as uploaded through the admin interfact.
+See *Swan* in action at [Swan Demo](http://swan-theme.seandrussell.com/). Note that because heroku periodically removes images, the only image displayed in the demo is a demo logo that is within the assets folder. Ordinarily, this would be the blog logo as uploaded through the admin interfact.
 
 ## What's New?
 
-_[Swan Demo](http://swan-demo.herokuapp.com) is always running the latest version of Swan. You can preview all new features there._
+_[Swan Demo](http://swan-theme.seandrussell.com) is always running the latest version of Swan. You can preview all new features there._
 
 ## Releases
 
